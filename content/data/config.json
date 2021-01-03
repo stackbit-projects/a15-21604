@@ -63,7 +63,7 @@
                 "label": "Scouting Nederland",
                 "url": "lorem-ipsum",
                 "style": "link",
-                "new_window": false,
+                "new_window": true,
                 "type": "action"
             }
         ]
