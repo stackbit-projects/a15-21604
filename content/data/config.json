@@ -70,7 +70,7 @@
                 "label": "Scoutshop",
                 "url": "https://www.scoutshop.nl",
                 "style": "link",
-                "new_window": false,
+                "new_window": true,
                 "type": "action"
             }
         ]
