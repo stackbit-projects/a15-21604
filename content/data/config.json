@@ -29,7 +29,7 @@
             {
                 "label": "Contact Us",
                 "url": "/contact",
-                "style": "primary"
+                "style": "link"
             }
         ],
         "logo": "images/Scouting_NL_logo_RGB_transparanteachtergrond (1).png"
