@@ -61,7 +61,7 @@
         "links": [
             {
                 "label": "Scouting Nederland",
-                "url": "lorem-ipsum",
+                "url": "https://www.scouting.nl",
                 "style": "link",
                 "new_window": true,
                 "type": "action"
