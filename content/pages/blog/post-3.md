@@ -5,7 +5,7 @@ author: content/data/team/gordon-norman.yaml
 categories:
   - content/data/categories/general.yaml
 tags:
-  - Stackbit
+  - Scouting A15
   - JAMstack
 image: images/3.png
 excerpt: >-
