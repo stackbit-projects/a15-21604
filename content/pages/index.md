@@ -78,7 +78,8 @@ sections:
     has_background: true
     background_color: gray
   - title: lorem-ipsum
-    team: []
+    team:
+      - content/data/team/person-fpa6p7do4.json
     type: team_section
 layout: advanced
 ---
