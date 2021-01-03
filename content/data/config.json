@@ -53,7 +53,7 @@
             {
                 "label": "Twitter Scouting A15",
                 "url": "https://twitter.com/scoutinga15",
-                "style": "primary",
+                "style": "link",
                 "new_window": true
             }
         ],
